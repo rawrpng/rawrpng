@@ -1,16 +1,14 @@
-## Hi there 👋
+## hi 
 
-<!--
-**rawrpng/rawrpng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#these are clips from my game/engine
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+https://github.com/user-attachments/assets/63d6e427-5eb4-4bb6-a07d-62d90d96b0fe //1
+https://github.com/user-attachments/assets/551bdab1-8db9-424e-8017-ecfbf6e85678 //2
+https://github.com/user-attachments/assets/21f4966a-4253-433c-8eff-aa960479b978
+
+
+
+
+
+
